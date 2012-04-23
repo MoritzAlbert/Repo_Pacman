@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ebenius">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ/lib/ebenius/com.ebenius(alt).jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ/lib/ebenius/com.ebenius.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

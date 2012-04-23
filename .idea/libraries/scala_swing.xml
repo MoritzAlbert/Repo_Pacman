@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-swing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ/lib/scala-swing/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ/lib/scala-swing/scala-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
